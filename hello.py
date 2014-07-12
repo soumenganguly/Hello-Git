@@ -1,1 +1,4 @@
-print "Hello Git!!"
+#! /usr/bin/python
+
+print "Hello Git"
+
